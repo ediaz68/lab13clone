@@ -20,8 +20,8 @@
 void ediaz68_vmansu3() 
 {
   printf("Erik Diaz and Vinay Mansukhani\n");
-  printf("We learned that git and GitHub are amazing, powerful tools!\n");
-}
+//   printf("We learned that you can collaborate on programs through git/github !\n");
+// }
 
 int main() 
 {
